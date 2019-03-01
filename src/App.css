@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -9,7 +10,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #342830;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -23,6 +24,12 @@
   color: #61dafb;
 }
 
+.messingAround{
+  padding: 0;
+  margin: 0;
+  background-color: #342830;  
+  color: #fff;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
